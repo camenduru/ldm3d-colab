@@ -14,5 +14,8 @@ https://huggingface.co/spaces/Intel/ldm3d/tree/main
 ## Paper
 https://arxiv.org/abs/2305.10853
 
+## Model
+https://huggingface.co/Intel/ldm3d-pano
+
 ## Output
 ![Screenshot 2023-08-14 224210](https://github.com/camenduru/ldm3d-colab/assets/54370274/041c264a-9c9b-45d9-9b1d-48bd3689412a)
